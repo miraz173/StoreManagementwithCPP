@@ -1,5 +1,5 @@
 # Store Database Management System
-user--> login, register, exit
+*user--> login, register, exit* 
 all the variable must be in separate file to make the program behave properly. Because program will store each --> line <-- in separate string variables. Will be reading in lines because variables might be multi-word string and "file >> string_variable"
 reads only one word.
 
